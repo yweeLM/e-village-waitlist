@@ -10,16 +10,6 @@
         body { font-family: 'Inter', sans-serif; }
         .glass { background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(12px); }
         .gradient-bg { background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 60%, #bbf7d0 100%); }
-        .logo-lagos {
-            display: inline-flex; align-items: center; gap: 6px;
-            font-weight: 800; font-size: 0.85rem; color: #15803d;
-            border: 2px solid #16a34a; border-radius: 8px; padding: 3px 8px;
-        }
-        .logo-unforsaken {
-            display: inline-flex; align-items: center; gap: 6px;
-            font-weight: 800; font-size: 0.8rem; color: #166534;
-            border: 2px solid #166534; border-radius: 8px; padding: 3px 8px;
-        }
         .countdown-box {
             background: linear-gradient(135deg, #dc2626, #b91c1c);
             border-radius: 12px; padding: 6px 12px; text-align: center; min-width: 64px;
@@ -34,19 +24,13 @@
     <nav class="sticky top-0 z-50 glass border-b border-green-100 shadow-sm">
         <div class="max-w-5xl mx-auto px-4 h-16 flex items-center justify-between gap-4">
             <!-- Logos -->
-            <div class="flex items-center gap-3 flex-wrap">
-                <a href="https://lagosmums.com/" target="_blank" class="logo-lagos">
-                    <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
-                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14H9V8h2v8zm4 0h-2V8h2v8z"/>
-                    </svg>
-                    LagosMums
+            <div class="flex items-center gap-4 flex-wrap">
+                <a href="https://lagosmums.com/" target="_blank">
+                    <img src="lagosmums-logo.png" alt="LagosMums" class="h-9 w-auto">
                 </a>
                 <span class="text-slate-300 font-light text-lg hidden sm:inline">&times;</span>
-                <a href="https://theunforsaken.org/" target="_blank" class="logo-unforsaken">
-                    <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
-                        <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
-                    </svg>
-                    The Unforsaken
+                <a href="https://theunforsaken.org/" target="_blank">
+                    <img src="unforsaken-logo.png" alt="The Unforsaken House of Hephzibah Wellness" class="h-9 w-auto">
                 </a>
             </div>
             <a href="https://tinyurl.com/grouptheraphy1" target="_blank"
@@ -59,7 +43,7 @@
     <!-- Urgency Banner -->
     <div class="bg-red-600 text-white text-center py-2 px-4">
         <p class="text-sm font-bold pulse-badge">
-            &#9201; Applications close <strong>this Sunday</strong> &mdash; only 12 spots available. Don't miss your place.
+            &#9201; Applications close <strong>this Sunday</strong>. Only 12 spots available. Don't miss your place.
         </p>
     </div>
 
@@ -76,14 +60,14 @@
                 A safe, professional space for Women
             </p>
             <p class="text-lg text-slate-600 mb-4 max-w-2xl mx-auto leading-relaxed">
-                Presented by <strong>LagosMums</strong> &amp; <strong>The Unforsaken House of Hephzibah Wellness Hospital</strong> &mdash;
-                a supportive virtual community for women healing from narcissistic abuse or emotional neglect.
+                Presented by <strong>LagosMums</strong> &amp; <strong>The Unforsaken House of Hephzibah Wellness Hospital.</strong>
+                A supportive virtual community for women healing from narcissistic abuse or emotional neglect.
             </p>
 
             <!-- Countdown -->
             <div class="inline-block bg-white border border-red-200 rounded-2xl px-6 py-4 mb-8 shadow-md">
                 <p class="text-xs font-bold text-red-600 uppercase tracking-widest mb-3">&#128680; Applications Close In</p>
-                <div class="flex items-center justify-center gap-3" id="countdown-wrap">
+                <div class="flex items-center justify-center gap-3">
                     <div class="countdown-box">
                         <div class="text-2xl font-black text-white" id="cd-days">--</div>
                         <div class="text-[9px] font-bold text-red-200 uppercase">Days</div>
@@ -111,7 +95,7 @@
                    class="inline-block bg-green-600 hover:bg-green-700 text-white px-10 py-5 rounded-2xl font-black text-xl shadow-xl transition-all active:scale-95">
                     Fill the Questionnaire &rarr;
                 </a>
-                <p class="mt-4 text-sm text-slate-500 font-medium">Limited to 12 persons per session &mdash; secure your spot before Sunday.</p>
+                <p class="mt-4 text-sm text-slate-500 font-medium">Limited to 12 persons per session. Secure your spot before Sunday.</p>
             </div>
         </div>
     </header>
@@ -135,7 +119,7 @@
                         </div>
                         <div class="flex items-start gap-3">
                             <span class="text-green-600 font-black text-lg">&#10003;</span>
-                            <span class="text-slate-700 font-medium">Virtual &mdash; join from anywhere</span>
+                            <span class="text-slate-700 font-medium">Virtual, join from anywhere</span>
                         </div>
                         <div class="flex items-start gap-3">
                             <span class="text-green-600 font-black text-lg">&#10003;</span>
@@ -143,14 +127,14 @@
                         </div>
                         <div class="flex items-start gap-3">
                             <span class="text-green-600 font-black text-lg">&#10003;</span>
-                            <span class="text-slate-700 font-medium">Small group &mdash; no more than 12 women</span>
+                            <span class="text-slate-700 font-medium">Small group, no more than 12 women</span>
                         </div>
                     </div>
                 </div>
                 <div class="grid grid-cols-2 gap-4 text-center">
                     <div class="p-6 bg-white border border-green-100 rounded-2xl shadow-sm">
                         <div class="text-2xl mb-2">&#128336;</div>
-                        <div class="font-bold text-slate-800">60&ndash;90 Min</div>
+                        <div class="font-bold text-slate-800">60-90 Min</div>
                         <div class="text-xs text-slate-400 uppercase">Per Session</div>
                     </div>
                     <div class="p-6 bg-white border border-green-100 rounded-2xl shadow-sm">
@@ -178,35 +162,35 @@
         <div class="max-w-4xl mx-auto px-6 text-center">
             <h2 class="text-3xl font-black mb-3">Your Investment</h2>
             <p class="text-slate-500 mb-10 max-w-xl mx-auto">
-                Group therapy is significantly more accessible than one-to-one sessions &mdash; you get the same professional, trauma-informed care at a fraction of the cost of individual therapy.
+                Group therapy makes professional, trauma-informed care genuinely accessible. You receive the same expert guidance as a one-to-one session at a fraction of the individual therapy cost.
             </p>
             <div class="grid md:grid-cols-2 gap-6">
 
                 <!-- Per session -->
                 <div class="p-8 bg-white border border-slate-200 rounded-2xl text-left">
-                    <p class="text-slate-400 text-xs font-bold uppercase mb-1">Group Rate &mdash; Per Session</p>
+                    <p class="text-slate-400 text-xs font-bold uppercase mb-1">Group Rate, Per Session</p>
                     <p class="text-3xl font-black text-slate-900 mb-3">
                         &#8358;42,500 <span class="text-lg font-normal text-slate-400">or &pound;25</span>
                     </p>
                     <p class="text-sm text-green-700 font-semibold bg-green-50 rounded-lg px-3 py-2 inline-block">
-                        &#128200; A significant saving vs. individual 1-to-1 sessions
+                        &#128200; A huge saving compared to individual 1-to-1 sessions
                     </p>
                 </div>
 
                 <!-- Full cycle -->
                 <div class="p-8 bg-green-600 text-white rounded-2xl relative shadow-xl shadow-green-100 text-left">
                     <div class="absolute -top-3 left-1/2 -translate-x-1/2 bg-yellow-400 text-yellow-900 text-[10px] font-black px-3 py-1 rounded-full uppercase whitespace-nowrap">
-                        &#9733; Best Value &mdash; Discounted Bundle
+                        &#9733; Best Value: Discounted Full Cycle
                     </div>
-                    <p class="text-green-100 text-xs font-bold uppercase mb-1 mt-2">Full Cycle &mdash; All 12 Sessions</p>
+                    <p class="text-green-100 text-xs font-bold uppercase mb-1 mt-2">Full Cycle, All 12 Sessions</p>
                     <p class="text-3xl font-black mb-1">
                         &#8358;402,500 <span class="text-lg font-normal text-green-200">or &pound;220</span>
                     </p>
                     <p class="text-green-200 text-sm line-through mb-2">
-                        Full price: &#8358;510,000 / &pound;300 if paid per session
+                        Pay-per-session total: &#8358;510,000 / &pound;300
                     </p>
                     <p class="text-sm font-semibold text-yellow-300 bg-white/10 rounded-lg px-3 py-2 inline-block">
-                        &#127881; Save &#8358;107,500 / &pound;80 when you commit to the full cycle
+                        &#127881; You save &#8358;107,500 / &pound;80 on the full cycle
                     </p>
                 </div>
 
@@ -222,16 +206,15 @@
                 This initiative was born from a shared conviction: that women deserve expert, accessible, community-grounded support on their path from surviving to thriving.
             </p>
             <div class="grid md:grid-cols-2 gap-8">
+
+                <!-- The Unforsaken -->
                 <div class="bg-green-50 p-8 rounded-3xl border border-green-100">
-                    <a href="https://theunforsaken.org/" target="_blank" class="logo-unforsaken mb-4 inline-flex">
-                        <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
-                            <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
-                        </svg>
-                        The Unforsaken
+                    <a href="https://theunforsaken.org/" target="_blank" class="inline-block mb-5">
+                        <img src="unforsaken-logo.png" alt="The Unforsaken House of Hephzibah Wellness" class="h-10 w-auto">
                     </a>
-                    <p class="text-slate-600 leading-relaxed mt-4">
-                        Led by <strong>Busola Olamuyiwa</strong>, Lead Consultant at The Unforsaken House of Hephzibah Wellness Hospital,
-                        this programme draws on years of trauma-informed clinical practice to create a structured,
+                    <p class="text-slate-600 leading-relaxed">
+                        Led by <strong>Busola Olamuyiwa</strong>, Lead Consultant at The Unforsaken House of Hephzibah Wellness Hospital.
+                        This programme draws on years of trauma-informed clinical practice to create a structured,
                         deeply compassionate healing journey for women.
                     </p>
                     <a href="https://theunforsaken.org/" target="_blank"
@@ -239,23 +222,23 @@
                         theunforsaken.org &#8599;
                     </a>
                 </div>
+
+                <!-- LagosMums -->
                 <div class="bg-green-50 p-8 rounded-3xl border border-green-100">
-                    <a href="https://lagosmums.com/" target="_blank" class="logo-lagos mb-4 inline-flex">
-                        <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
-                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14H9V8h2v8zm4 0h-2V8h2v8z"/>
-                        </svg>
-                        LagosMums
+                    <a href="https://lagosmums.com/" target="_blank" class="inline-block mb-5">
+                        <img src="lagosmums-logo.png" alt="LagosMums" class="h-10 w-auto">
                     </a>
-                    <p class="text-slate-600 leading-relaxed mt-4">
-                        Co-presented by <strong>LagosMums</strong> and its founder &mdash; a trusted community platform that has supported
-                        thousands of women across Nigeria and beyond. LagosMums brings its reach and community heart to make
-                        this healing programme visible and accessible to those who need it most.
+                    <p class="text-slate-600 leading-relaxed">
+                        Co-presented by <strong>Yetty Williams</strong>, founder of LagosMums.
+                        A trusted community supporting women across Nigeria and beyond.
+                        LagosMums understands that when women thrive, their families thrive.
                     </p>
                     <a href="https://lagosmums.com/" target="_blank"
                        class="mt-4 inline-block text-green-700 hover:text-green-900 text-sm font-semibold underline">
                         lagosmums.com &#8599;
                     </a>
                 </div>
+
             </div>
         </div>
     </section>
@@ -305,8 +288,6 @@
     </section>
 
     <script>
-        // Deadline: end of this Sunday (the coming Sunday from page publication)
-        // Set to Sunday 11:59 PM WAT (UTC+1) — adjust if needed
         const deadline = new Date('2026-05-04T23:59:59+01:00');
 
         function pad(n) { return String(n).padStart(2, '0'); }
