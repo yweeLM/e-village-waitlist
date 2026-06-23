@@ -602,16 +602,8 @@
                 <form
                     class="form-wrap"
                     id="waitlist-form"
-                    name="sav-waitlist"
-                    method="POST"
-                    netlify
-                    netlify-honeypot="bot-field"
                     novalidate
                 >
-                    <input type="hidden" name="form-name" value="sav-waitlist">
-                    <!-- Honeypot -->
-                    <p hidden><label>Don't fill this out: <input name="bot-field"></label></p>
-
                     <!-- Email -->
                     <div class="email-row">
                         <input
@@ -782,6 +774,9 @@
     </footer>
 
     <script>
+        const SUPABASE_URL = 'https://jbuwvbjjjrhwbszanpma.supabase.co';
+        const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpidXd2YmpqanJod2JzemFucG1hIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTQ5MTUyMjIsImV4cCI6MjA3MDQ5MTIyMn0.ZbaYFUy7ew84YDMJJHtSoKBgfH2eopUcpMV-3EPJEXc';
+
         // ── Optional panel toggle ──
         const optToggle = document.getElementById('opt-toggle');
         const optPanel  = document.getElementById('optional-panel');
@@ -813,7 +808,6 @@
             `;
             row.querySelector('.remove-btn').addEventListener('click', () => {
                 row.remove();
-                // Re-number remaining labels
                 document.querySelectorAll('.child-row').forEach((r, i) => {
                     const lbl = r.querySelector('.child-label');
                     if (lbl) lbl.textContent = `Child ${i + 1}`;
@@ -834,7 +828,6 @@
         form.addEventListener('submit', async (e) => {
             e.preventDefault();
 
-            // Validate email
             emailError.classList.remove('show');
             if (!emailInput.value || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(emailInput.value)) {
                 emailError.classList.add('show');
@@ -845,20 +838,39 @@
             joinBtn.textContent = 'Joining…';
             joinBtn.disabled = true;
 
-            // Submit to Netlify Forms
+            const childAges = Array.from(document.querySelectorAll('input[name="child_age[]"]'))
+                .map(input => input.value.trim())
+                .filter(v => v.length > 0);
+
+            const concern = document.getElementById('ai-concern').value.trim();
+
+            const payload = {
+                email: emailInput.value.trim(),
+                children_ages: childAges,
+                ai_concern: concern || null,
+                referral_source: 'sav_landing_page',
+            };
+
             try {
-                const body = new URLSearchParams(new FormData(form)).toString();
-                await fetch('/', {
+                const res = await fetch(`${SUPABASE_URL}/rest/v1/sav_waitlist`, {
                     method: 'POST',
-                    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-                    body,
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'apikey': SUPABASE_KEY,
+                        'Authorization': `Bearer ${SUPABASE_KEY}`,
+                        'Prefer': 'return=minimal',
+                    },
+                    body: JSON.stringify(payload),
                 });
+
+                if (!res.ok) {
+                    const errText = await res.text();
+                    console.error('Supabase insert failed:', res.status, errText);
+                }
             } catch (err) {
-                // Swallow network errors — still show success
-                console.warn('Form post note:', err);
+                console.warn('Network error:', err);
             }
 
-            // Show success
             formState.style.display = 'none';
             successState.classList.add('show');
             window.scrollTo({ top: 0, behavior: 'smooth' });
