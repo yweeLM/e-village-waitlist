@@ -1,7 +1,7 @@
 # Yetty Williams — Media Compilation
 **Founder, LagosMums | Digital Parenting Coach**
 
-> Comprehensive compilation of public media appearances including interviews, TV, radio, articles, podcasts, webinars, and events. Sources gathered from open web search as of June 2026.
+> Comprehensive compilation of public media appearances including interviews, TV, radio, articles, podcasts, webinars, and events. Sources gathered from open web search and uploaded PDF documents. Last updated August 2026.
 
 ---
 
@@ -14,6 +14,7 @@
 | 2020 | BusinessDay NG | Nigeria | [The only way to scale is to embrace technology](https://businessday.ng/interview/article/the-only-way-to-scale-grow-your-business-is-to-embrace-technology-as-an-enabler-yetty-williams/) | Interview on technology as a business growth enabler, her partnership with the US State Department, and training women entrepreneurs. Published September 2020. |
 | 2021 | TheWill Downtown | Nigeria | [Parenting in the 21st Century](https://thewilldowntown.com/yetty-williams-parenting-in-the-21st-century/) | Feature interview with DOWNTOWN's Kehindé Fagbule on LagosMums' evolution from a blog into Nigeria's premier parenting community, covering digital parenting insights. April 2021. |
 | 2021 | BusinessDay NG | Nigeria | [Yetty Williams – Digital Coach and Founder, Lagos Mums](https://businessday.ng/interview/women-in-business/article/yetty-williams-digital-coach-and-founder-lagos-mums/) | Women in Business profile interview covering her digital coaching practice, LagosMums' community growth, and her take on raising children in a connected world. |
+| 2026 | Vanguard Allure | Nigeria | [YETTY WILLIAMS: On Redefining Parenting](https://allure.vanguardngr.com/2026/07/yetty-williams-on-redefining-parenting/) | In-depth feature interview by Josephine Agbonkhese (July 5, 2026). Described as a Forbes 30 Under 50 honoree whose work now reaches 15 million+ people annually. Covers: the origin story of LagosMums 15 years ago as a culturally relevant parenting platform for Nigerian mothers; how technology and AI have reshaped childhood; the debate on harsh discipline vs child abuse (drawing on her CBT training); economic pressures on family time; building children's EQ and emotional intelligence over pure IQ; digital parenting strategies including raising "digital detectives"; AI threats such as sycophancy and cyberbullying; personal reflections on her authoritative but loving upbringing and "brain food" family traditions. |
 | Undated | Yale School of Management | USA | [An Interview with Yetty Williams '04](https://world.yale.edu/news/an-interview-with-yetty-williams-04-yale-school-of-management-mba) | Yale alumni interview discussing how her MBA in Finance & Strategy informed her entrepreneurship and how LagosMums bridges Nigerian parenting culture and the digital age. |
 | Undated | Pitt Magazine, University of Pittsburgh | USA | [Q&A: Mighty Mothers](https://www.pittmag.pitt.edu/news/qa-mighty-mothers) | Alumni feature Q&A on how Yetty, a University of Pittsburgh economics graduate, founded LagosMums to connect Nigerian mothers when she found no culturally relevant online parenting resource in Lagos. |
 | Undated | Lionesses of Africa | Africa / Online | [Startup Story of Yetty Williams](https://www.lionessesofafrica.com/blog/startup-story-of-yetty-williams) | Entrepreneurial profile on her journey from corporate finance (Bloomberg, Shell, Union Bank) to founding LagosMums, her mission for African mothers, and her coaching work. |
@@ -182,6 +183,7 @@
 | 2025 | Newsletter | AI Is Raising Your Child (Unless You're Paying Attention) | LagosMums Substack | [Substack](https://open.substack.com/pub/lagosmums/p/ai-is-raising-your-child-unless-youre) |
 | 2025 | Newsletter | Digital Parenting in the Age of Distraction | LagosMums Substack | [Substack](https://lagosmums.substack.com/p/digital-parenting-in-the-age-of-distraction) |
 | 2025 | Webinar | LagosMums 11th Annual Parenting Conference — "Raising Children in an AI World" | LagosMums Foundation | [Link](https://pridemagazineng.com/lagosmums-foundation-announces-11th-annual-parenting-conference-raising-children-in-an-ai-world/) |
+| 2026 | Interview | YETTY WILLIAMS: On Redefining Parenting | Vanguard Allure | [Link](https://allure.vanguardngr.com/2026/07/yetty-williams-on-redefining-parenting/) |
 | 2026 | Article | Visa West Africa Hosts Yetty Williams | BellaNaija | [Link](https://www.bellanaija.com/2026/03/visa-west-africa-hosts-lagosmums/) |
 | 2026 | Article | Visa West Africa Hosts Yetty Williams | Pulse Nigeria | [Link](https://www.pulse.ng/story/visa-west-africa-hosts-lagosmums-founder-yetty-williams-as-she-shares-7-digital-parenting-rules-that-actually-work-2026030312435705839) |
 | 2026 | Article | Visa West Africa Hosts Yetty Williams | TheCable | [Link](https://www.thecable.ng/visa-west-africa-hosts-lagosmums-founder-yetty-williams-as-she-shares-7-digital-parenting-rules-that-actually-work/) |
@@ -222,4 +224,97 @@
 
 ---
 
-*Document compiled June 2026. Sources derived from open web search. For a full real-time index of media appearances, visit lagosmums.com/media-mentions-yetty-williams-media/*
+*Document compiled August 2026. Sources derived from open web search and uploaded PDF documents. For a full real-time index of media appearances, visit lagosmums.com/media-mentions-yetty-williams-media/*
+
+---
+
+## APPENDIX: FULL INTERVIEW TRANSCRIPT
+
+### Vanguard Allure — "YETTY WILLIAMS: On Redefining Parenting"
+**Published:** July 5, 2026 | **By:** Josephine Agbonkhese | **URL:** https://allure.vanguardngr.com/2026/07/yetty-williams-on-redefining-parenting/
+
+---
+
+In a world where technology, social media, and AI are reshaping childhood faster than many parents can keep up with, Yetty Williams stands as one of Nigeria's most trusted voices on modern parenting.
+
+A Yale School of Management alumna, certified digital parenting coach, social entrepreneur, and author, she is the founder of LagosMums — Nigeria's pioneering parenting platform — and the global initiative 'Digital Savvy Parenting'. Her work now reaches over 15 million people annually, equipping families with practical tools for online safety, AI literacy, digital well-being, and raising responsible digital citizens.
+
+From her early days as a new mother returning from the US to Lagos and noticing the lack of culturally relevant parenting resources, to building a thriving e-community and training thousands across Sub-Saharan Africa through partnerships with Google and others, Yetty has spent over a decade bridging the gap between traditional Nigerian values and 21st-century realities.
+
+In this interview, she explores the evolution of parenting in Nigeria, the fine line between culturally accepted discipline and harmful practices, the pressures of economic hardship on family time, and practical strategies for protecting children online without breeding rebellion.
+
+A Forbes 30 Under 50 honoree, sought-after speaker, and mother of two teenagers, Yetty Williams doesn't just talk about the future of parenting — she is actively shaping it.
+
+---
+
+**On the origin of LagosMums:**
+
+"The gap that started this whole journey for me was about 15 years ago. As a new mom with a toddler and a baby, having lived in the US for over a decade and then moving back to Nigeria, I had a lot of questions about motherhood and work-life balance. Back then, the internet was starting to become something we used more comfortably to find information and research, but one of the things I noticed was that a lot of the information out there was always very Western-based. It was speaking to a mother or a parent based in the US or the UK, and I just didn't really think there was anything speaking to my realities as a Nigerian woman who was parenting and mothering in Lagos, in Nigeria.
+
+That was the gap I noticed that made me say, you know what, maybe it would be nice to have a platform, a resource, a place that spoke to my needs as a mum. I thought if I had those questions, maybe other mums had them too, and that is literally how I started LagosMums to be a hub and a center to help me navigate being a new mum in the digital world in Lagos..."
+
+"Parenting has really evolved since then because technology, digital media, social media, and now AI have come to influence our children in ways we never thought would be possible. Your child can be in Lagos in Nigeria, and they're seeing content from somebody in another part of the world that might be influencing them. As parents, we actually have to be aware to pick up if our children are being influenced by other people's perspectives, especially because online is 24/7. The biggest change in the parenting landscape is certainly that influence of content online where our children could have access to these things all the time if parents are not intentional about putting safeguards in place."
+
+---
+
+**On discipline vs child abuse in the Nigerian context:**
+
+"From a cognitive behavioural therapy perspective, harsh discipline deeply affects a child and how they navigate the world. One of the things we see is that they learn a deep-seated way of seeing themselves other than the world; they always come from that perspective of fear of being judged because that's all they've been used to — being judged harshly. They take that internal critical alarm with them, so whatever they are doing, they might tend to be fearful or just expect that the feedback they are going to get is going to be negative. That puts them in a hyper-vigilant perspective where they are constantly in 'fight or flight' mode.
+
+It can also affect their emotional regulation because environments where you are used to always being told off or harshly disciplined can be very tough to live in. It's not that you should never be told off or be corrected, but when it's done in an environment where you are always vigilant and wondering how you are going to be punished and what you did wrong, internalising that dialogue can be very negative for a child growing up into an adult.
+
+'Spare the rod and spoil the child' has been taken out of context. If you read it properly, it's talking about indeed disciplining a child because if you don't and you leave a child to go wild, then you are leading them to destruction. So 'spare the rod' is a principle for saying how you discipline a child, but it does not mean you should abuse a child. Discipline for me is not only about physical punishment; there are many, many ways you can discipline a child that doesn't include physical punishment. You can take away consequences, you can deprive them of certain things they like doing, or you can say no."
+
+"Parents can unlearn harmful disciplinary practices when they start desiring to be different and really deeply thinking about what they are trying to achieve when they discipline their child. Am I teaching him or her a better way to behave? Have I communicated what is expected? Children don't have to like what you say or your rules, but they have to understand them, and you build understanding by being able to communicate. Parents have to learn the art of active listening and taking time to explain. It's important we don't go into all of that 'that's how I was raised, they beat me when I was growing up, did I not turn out okay?'. Those things don't really mean anything if you are not really willing to do the work."
+
+---
+
+**On economic pressures and family time:**
+
+"Parenting in Nigeria today faces unique pressures, and economic hardship is real. Most homes now have both parents having to earn an income; in fact, sometimes it's not just one job — they have a job, they have a side hustle, and they have a consultancy. There are so many things being done to try and make sure you are providing for your family and children to the best ability that you can. But one of the things we can never get back is time. As much as we have to be able to financially live in the world we live in, it's important to recognise that if both parents are out constantly busy earning, you have to ask who is raising the children.
+
+Life is about seasons and life is about giving up certain things at certain times; and it's not easy. But we have to keep in mind that the children need intentional, available parents through the years. Sometimes parents think it gets easier as the children get older, but children's needs just change. A teenager might need you in a different way from when they were six or seven, but they still need parents to be available because now we live in a world where there are no more global borders."
+
+---
+
+**On raising confident children and EQ over IQ:**
+
+"To raise a confident child who has self-confidence, you have to allow that child to know that they are loved, to know what they are good at, and to focus on their strengths. Give them a growth mindset so they always remind themselves they can learn or figure things out. The environment you put them in for school is also important — how is the school preparing the child for this world we live in? There's a lot of focus on IQ, which is pure academics, but EQ — Emotional Intelligence — is the one that can take you further.
+
+Emotional intelligence is the ability to think about what you are saying, know how you are feeling, be able to use your words to express it, have empathy for other people, and know that your words and the way you behave all matter. We can start at home by being intentional and authoritative. Your children should know that you have values and you expect them to do the best that's possible for them, but I don't believe in doing it from a place where your children fear you. What you want to do is toe the line where your children know you love them, they know you have high expectations, but they also know you are a safe space."
+
+---
+
+**On digital parenting:**
+
+"When it comes to digital parenting, this is one of the biggest challenges everybody faces. The conversation has moved away from 'when should I give my child a phone?' because whether you give them a phone or not, they are exposed to so much. In my book, Digital Savvy Parenting, the premise is helping parents navigate the digital world and raising digital natives in a world where many of the parents themselves are analog-minded. You have to move fast with your children to help them.
+
+I don't believe it's healthy to think you will tell your child no phone, no internet, no nothing — it's not possible in the world we live in today. Instead, you have to raise children to be what I call 'digital detectives'. When they are online, think about what somebody is saying and who is actually saying it; are they really who they say they are? Teach them about stranger danger, but online.
+
+Parents can create rules, understand why they have the rules, and make the rules clear to the family. For example, no phone in your room at night, especially on school days; and when you are having family dinner, put your phones away so you can actually communicate and make eye contact.
+
+Emerging threats are real, and mental illness is on the increase. Research shows that anything more than like four hours per day online can cause mental health challenges; so you have to measure it. It should be two to three hours if they are in primary or secondary school. Attention span is also an issue. We also have to watch for cyberbullying and 'grooming'. AI has come into everything now. I also worry about AI sycophancy — the 'digital yes-man'."
+
+---
+
+**On advice for working parents:**
+
+"For working parents who feel guilty, be honest with yourself; I believe in seasons. Audit your time; how are you spending your time? If you work so hard during the week and can't really spend quality time, on the weekend don't spend it all at parties and in the salon. Make sure you block out your weekend and spend quality time with your children. It is better than nothing."
+
+---
+
+**On her own upbringing:**
+
+"Looking back at my own childhood, my parents were quite authoritative. My mom had high expectations — I remember she hand-wrote a whole notebook of everything I needed to learn for the common entrance exam, and her dedication taught me that if you work hard for something, you will get it. It was a very loving home where we talked a lot and spent time together. I'm the middle child, and my parents really allowed us to explore who we were; they didn't dictate things to us, but we knew there were expectations to behave a certain way and we had values."
+
+---
+
+**On unwinding and personal life:**
+
+"To unwind, I love talking to friends. I have a few very close friends I can get on the phone with and talk for hours on end. I love watching movies and getting into a good book. For a period, all I read were business and parenting books to be a better coach, but now I've started going back to what I used to do as a teenager, which is reading fiction. I especially enjoy 'tech-fiction' and psychological thrillers. I also really love gisting with my children; they are actually enjoyable gisting partners, and we talk about the brain a lot. We do something called 'brain food' after dinner where we take turns to watch something on television that's going to teach us something, like Shark Tank. You can have fun while you're learning together."
+
+---
+
+**On the best advice she's received:**
+
+"The best advice I've ever been given comes from my mum, who always said, 'You can never be too careful, but you can be too careless'. Being careful, mindful, and thoughtful — you can't overdo that, but you can really pay the price for being careless very quickly. My other anchor comes from the Bible, and it's one I particularly pray for my children: to grow in wisdom, stature, and favour before God and man."
